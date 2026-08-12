@@ -36,6 +36,5 @@ for company, group in df.groupby('company'):
 trend_df = pd.DataFrame(trends)
 
 df.to_csv('risk_scores_output.csv', index=False)
-print(df[df['company'].isin(['The Boeing Company', 'Alphabet Inc.', 'The Coca-Cola Company'])][['company','year','risk_score','risk_category']])
 print(df[['company', 'year', 'risk_score', 'risk_category']])
 print(trend_df)
