@@ -44,7 +44,7 @@ Each ratio was normalized to a 0–1 scale and combined into a single weighted r
 
 # **Dashboard**
 
-**!\[Dashboard Screenshot](dashboard/dashboard\_screenshot.png)**
+**![Dashboard Screenshot](dashboard/dashboard_screenshot.png)**
 
 ## The dashboard allows the data to be filtered by sector and company. It includes:
 
